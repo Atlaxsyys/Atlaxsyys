@@ -20,7 +20,7 @@ Email → y.shafran-06@mail.ru
 
 ## 📄 CV
 
-[My CV](./CV_SHAFRAN.pdf)
+[My CV](./CV_SHAFRAN_YuM.pdf)
 
 ---
 
